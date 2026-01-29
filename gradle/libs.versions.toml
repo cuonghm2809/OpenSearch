@@ -1,9 +1,9 @@
 [versions]
-opensearch        = "2.19.4"
+opensearch        = "2.19.5"
 lucene            = "9.12.3"
 
 bundled_jdk_vendor = "adoptium"
-bundled_jdk = "21.0.8+9"
+bundled_jdk = "21.0.9+10"
 
 # optional dependencies
 spatial4j         = "0.7"
@@ -13,7 +13,8 @@ jackson_databind  = "2.18.2"
 snakeyaml         = "2.1"
 icu4j             = "75.1"
 supercsv          = "2.4.0"
-log4j             = "2.21.0"
+log4j             = "2.25.3"
+error_prone_annotations = "2.45.0"
 slf4j             = "1.7.36"
 asm               = "9.7"
 jettison          = "1.5.4"
